@@ -1,5 +1,12 @@
 # @graphql-tools/jest-transform
 
+## 2.0.2
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @graphql-tools/webpack-loader@7.0.1
+
 ## 2.0.1
 
 ### Patch Changes

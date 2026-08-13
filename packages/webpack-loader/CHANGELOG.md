@@ -1,5 +1,12 @@
 # @graphql-tools/webpack-loader
 
+## 7.0.1
+
+### Patch Changes
+
+- Updated dependencies [[`57e316d`](https://github.com/ardatan/graphql-tools/commit/57e316d1ee21668761d6b8ad7692e494db8ffab4)]:
+  - @graphql-tools/optimize@2.0.1
+
 ## 7.0.0
 
 ### Major Changes

@@ -1,5 +1,14 @@
 # @graphql-tools/load
 
+## 8.1.17
+
+### Patch Changes
+
+- [#8370](https://github.com/ardatan/graphql-tools/pull/8370) [`1c1c5a0`](https://github.com/ardatan/graphql-tools/commit/1c1c5a02931d3e444401beef6d6765054d29369d) Thanks [@ardatan](https://github.com/ardatan)! - Always include "Failed to find any GraphQL type definitions" context when loaders error, even if there is only one error. Fixes [#7406](https://github.com/ardatan/graphql-tools/issues/7406).
+- Updated dependencies [[`57e316d`](https://github.com/ardatan/graphql-tools/commit/57e316d1ee21668761d6b8ad7692e494db8ffab4), [`1c1c5a0`](https://github.com/ardatan/graphql-tools/commit/1c1c5a02931d3e444401beef6d6765054d29369d), [`1c1c5a0`](https://github.com/ardatan/graphql-tools/commit/1c1c5a02931d3e444401beef6d6765054d29369d)]:
+  - @graphql-tools/utils@12.0.1
+  - @graphql-tools/schema@10.1.1
+
 ## 8.1.16
 
 ### Patch Changes

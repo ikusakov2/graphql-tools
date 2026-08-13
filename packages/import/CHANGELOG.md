@@ -1,5 +1,12 @@
 # @graphql-tools/import
 
+## 7.1.20
+
+### Patch Changes
+
+- Updated dependencies [[`57e316d`](https://github.com/ardatan/graphql-tools/commit/57e316d1ee21668761d6b8ad7692e494db8ffab4), [`1c1c5a0`](https://github.com/ardatan/graphql-tools/commit/1c1c5a02931d3e444401beef6d6765054d29369d), [`1c1c5a0`](https://github.com/ardatan/graphql-tools/commit/1c1c5a02931d3e444401beef6d6765054d29369d)]:
+  - @graphql-tools/utils@12.0.1
+
 ## 7.1.19
 
 ### Patch Changes
